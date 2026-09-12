@@ -1,5 +1,8 @@
 # CV
 # *Елизавета Скрыпникова* 👽 
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/b38577db-c3c4-4009-a010-ed9a796a8b7d" />
+
 #### Контакты
 ##### - [Email](elizavetaskrypnikova069@gmail.com) 
 ##### - [GitHub](https://github.com/lizaskrypnikova)
